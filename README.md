@@ -1,4 +1,5 @@
-### <p align = "center"> 빵BTI 🥐 | 개인의 입맛과 성향에 맞는 빵 맛집 추천서비스 </p>
+<p align = "center"><img src="https://user-images.githubusercontent.com/109575863/203251753-4d6cfc25-2ee0-4c28-8dff-d9478c7f294e.png" width="350" height="350"/></p>
+<p align = "center">개인의 입맛과 성향에 맞는 빵 맛집 추천서비스</p>
 
 <br>
 
@@ -15,9 +16,6 @@
 <br>
 
 ## 빵BTI 프로젝트 소개
-<p align = "center"><img src="https://user-images.githubusercontent.com/109575863/203251753-4d6cfc25-2ee0-4c28-8dff-d9478c7f294e.png" width="350" height="350"/></p>
-
-<br>
 <br>
 
 <p align = "center">MBTI 테스트 유형을 차용하여 쉽고, 재미있고, 편하게 <br> 
