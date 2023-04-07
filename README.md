@@ -1,5 +1,5 @@
 <p align = "center"><img src="https://user-images.githubusercontent.com/109575863/203251753-4d6cfc25-2ee0-4c28-8dff-d9478c7f294e.png" width="350" height="350"/></p>
-<p align = "center">개인의 입맛과 성향에 맞는 빵 맛집 추천서비스</p>
+<h3><p align = "center">개인의 입맛과 성향에 맞는 빵 맛집 추천서비스</p>
 
 <br>
 
